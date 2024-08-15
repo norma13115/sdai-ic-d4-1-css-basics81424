@@ -1,7 +1,19 @@
 body {
-    background-color: whitesmoke;
+    background-color: #542200;
 }
 
 p {
-    color: darkslategray;
+   color: #af5eed;
+ }
+
+ h1 {
+     color: #6a5eed;
+ }
+
+ h2 {
+   color: #895eed;
+ }
+
+ a { 
+   color: rgb(163, 85, 236); 
 }
